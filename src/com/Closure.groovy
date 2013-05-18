@@ -14,3 +14,5 @@ isNotNull("yes") {
 	println "hello, groovy"
 }
 println "add"
+println "hello, git"
+
