@@ -16,3 +16,4 @@ isNotNull("yes") {
 println "add"
 println "hello, git"
 //wonderful world
+println "local2"
