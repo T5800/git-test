@@ -2,9 +2,9 @@ git-test
 ========
 hello world!!!
 git first!!
-local branch change it !!\
-<<<<<<< HEAD
+local branch change it !!
+
 local change 2
 =======
 local change again!!
->>>>>>> local
+
