@@ -1,0 +1,7 @@
+here , we can use like "GetWeatherByUrl" to get the info from
+the website...and then , we charge the regex method , e.g.    
+Pattern p = Pattern.compile(regex);
+Matcher m = p.matcher(message);
+we use the above method to get the content we want, such as the  
+"weather", "Mobile Address", "the Bus line" and so on...
+enjoy it!
